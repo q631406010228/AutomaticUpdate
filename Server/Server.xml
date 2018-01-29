@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UPGRADE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SrcDirectory>E:\服务器\QuantShell</SrcDirectory>
+  <Version>
+    <VersionNumber>1.2</VersionNumber>
+    <VersionItem>1.新增 : 麻辣鸡块</VersionItem>
+    <VersionItem>2.新增 : 你我他最爱的重庆火锅</VersionItem>
+    <VersionItem>3.新增 : 感觉还好的鱼香肉丝</VersionItem>
+    <VersionItem>4.新增 : 香辣土豆丝</VersionItem>
+  </Version>
+  <IP>127.0.0.1</IP>
+  <Port>200</Port>
+</UPGRADE>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UPGRADE xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SrcDirectory>E:\客户端\QuantShell</SrcDirectory>
+  <Version>1.2</Version>
+  <IP>127.0.0.1</IP>
+  <Port>200</Port>
+</UPGRADE>

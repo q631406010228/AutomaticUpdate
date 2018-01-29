@@ -1,0 +1,7 @@
+F:\WPF\AutomaticUpdate\Server\bin\Debug\Server.exe.config
+F:\WPF\AutomaticUpdate\Server\bin\Debug\Server.exe
+F:\WPF\AutomaticUpdate\Server\bin\Debug\Server.pdb
+F:\WPF\AutomaticUpdate\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\WPF\AutomaticUpdate\Server\obj\Debug\Server.exe
+F:\WPF\AutomaticUpdate\Server\obj\Debug\Server.pdb
+F:\WPF\AutomaticUpdate\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

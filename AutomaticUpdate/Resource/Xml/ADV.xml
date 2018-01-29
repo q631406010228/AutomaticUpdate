@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UPGRADE>
+  <sysconfig>
+    <advertisement URL="https://www.bilibili.com" />
+    <advertisement URL="http://www.gov.cn/"/>
+  </sysconfig>
+</UPGRADE>
