@@ -38,6 +38,9 @@ namespace AutomaticUpdate
             this.StateChanged += new EventHandler(FormMain_Resize);
             RollImg();
 
+            AppLog.Info("Info log");
+            AppLog.Error("Error log");
+
             //this.Begin.AddHandler(Button.ClickEvent, new RoutedEventHandler(this.BeginUpdate));
             //ListDF = QueryFiles.FindFile(SrcDirectory + "\\", ListDF, ListDirectory);    //搜索要复制的文件夹和文件
             //fileDate.Text = Convert.ToString(ListDF.Count());  //需要复制文件的总数  
@@ -140,8 +143,6 @@ namespace AutomaticUpdate
             fsW.Close();
         }
 
-
-
         //关闭窗口
         private void ColseWindow(object sender, RoutedEventArgs e)
         {
@@ -155,14 +156,12 @@ namespace AutomaticUpdate
             this.WindowState = WindowState.Minimized;
         }
 
-
         //复制数据的委托
         private void UpdateFile(object obj)
         {
             FilePath p = obj as FilePath;
             UpdateFile(p.SrcPath, p.DestPath);
         }
-
 
         //更新总进度条
         private void UpdateProgressBar(long fileNum) 
@@ -178,7 +177,6 @@ namespace AutomaticUpdate
 
         private void Window_LocationChanged(object sender,EventArgs e)
         {
-
             LocationEventArgs args = new LocationEventArgs(this.Left + this.Width , this.Top);
             PassDataBetweenForm(this, args);
         }   //通知子窗口一起移动

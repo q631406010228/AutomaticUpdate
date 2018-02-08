@@ -22,7 +22,6 @@ F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\xaml.baml
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\MainWindow.g.cs
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\xaml.g.cs
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\App.g.cs
-F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\AutomaticUpdate_Content.g.cs
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\GeneratedInternalTypeHelper.g.cs
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\AutomaticUpdate_MarkupCompile.cache
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\AutomaticUpdate_MarkupCompile.lref
@@ -39,3 +38,7 @@ F:\WPF\AutomaticUpdate\AutomaticUpdate\bin\Debug\System.Windows.Interactivity.dl
 F:\WPF\AutomaticUpdate\AutomaticUpdate\bin\Debug\System.Windows.Interactivity.xml
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\Version.g.cs
 F:\WPF\AutomaticUpdate\AutomaticUpdate\obj\Debug\Version.baml
+F:\WPF\AutomaticUpdate\AutomaticUpdate\bin\Debug\log4net.dll
+F:\WPF\AutomaticUpdate\AutomaticUpdate\bin\Debug\log4net.pdb
+F:\WPF\AutomaticUpdate\AutomaticUpdate\bin\Debug\log4net.xml
+F:\WPF\AutomaticUpdate\AutomaticUpdate\bin\Debug\log4net.config
